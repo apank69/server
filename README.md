@@ -14,7 +14,7 @@ server mining
 
 
 
-#cmhod +x cd server
+#cmhod +x server mining
 
 
 
